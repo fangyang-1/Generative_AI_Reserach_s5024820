@@ -14,3 +14,6 @@ Quantitative and qualitative analysis files may need special access controls bec
 
 A good naming convention makes files easy to identify, search for, and sort correctly. It reduces confusion between versions, prevents accidental use of outdated files, and helps others understand the file contents quickly.
 
+4.Under what scenarios, creating a new branch would be useful?
+
+Creating a new branch is useful when developing a new feature, fixing a bug, or testing an idea without affecting the main version of the project. It allows changes to be reviewed and tested safely before they are merged into the main branch.
